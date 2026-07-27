@@ -2,10 +2,11 @@
 
 ## Sobre mim
 
-- 💼 Tech Lead & Senior Development Analyst, atuando com IA, Cognigy.AI e RPA
+- 💼 Tech Lead & Senior Development Analyst na **GBPA**, atuando com IA, Cognigy.AI e RPA
 - 🤖 Experiência em automação inteligente com **Blue Prism, UiPath, Automation Anywhere e Fortra Automate**
 - 💬 Desenvolvendo assistentes conversacionais com **Cognigy.AI**
 - 👁️ Também atuo com **Visão Computacional** e desenvolvimento backend
+
 
 ## Minhas Skills
 
@@ -16,11 +17,22 @@
 [![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-004B8D?style=flat)](https://www.automationanywhere.com/)
 [![Fortra Automate](https://img.shields.io/badge/Fortra_Automate-6E2585?style=flat)](https://www.fortra.com/)
 
+**Linguagens**
+
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![VB.NET](https://img.shields.io/badge/-VB.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)](https://learn.microsoft.com/dotnet/visual-basic/)
+[![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=5391FE)](https://learn.microsoft.com/powershell/)
+
 **IA & Automação Conversacional**
 
 [![Cognigy.AI](https://img.shields.io/badge/Cognigy.AI-1E88E5?style=flat)](https://www.cognigy.com/)
-[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat)](https://github.com/ultralytics/ultralytics)
+[![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-1A1A1A?style=flat)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[![Meshy AI](https://img.shields.io/badge/Meshy_AI-6C3EF4?style=flat)](https://www.meshy.ai/)
+[![TensorRT](https://img.shields.io/badge/-TensorRT-333333?style=flat&logo=nvidia&logoColor=76B900)](https://developer.nvidia.com/tensorrt)
 
 **DevOps & Ferramentas**
 
@@ -33,4 +45,5 @@
 
 ## Contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chavatta/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chavatta/)
