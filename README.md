@@ -2,11 +2,10 @@
 
 ## Sobre mim
 
-- 💼 Tech Lead & Senior Development Analyst na **GBPA**, atuando com IA, Cognigy.AI e RPA
+- 💼 Tech Lead & Senior Development Analyst, atuando com IA, Cognigy.AI e RPA
 - 🤖 Experiência em automação inteligente com **Blue Prism, UiPath, Automation Anywhere e Fortra Automate**
 - 💬 Desenvolvendo assistentes conversacionais com **Cognigy.AI**
 - 👁️ Também atuo com **Visão Computacional** e desenvolvimento backend
-
 
 ## Minhas Skills
 
@@ -34,16 +33,21 @@
 [![Meshy AI](https://img.shields.io/badge/Meshy_AI-6C3EF4?style=flat)](https://www.meshy.ai/)
 [![TensorRT](https://img.shields.io/badge/-TensorRT-333333?style=flat&logo=nvidia&logoColor=76B900)](https://developer.nvidia.com/tensorrt)
 
-**DevOps & Ferramentas**
+**DevOps**
+
+[![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=326CE5)](https://kubernetes.io/)
+[![Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=githubactions&logoColor=2088FF)](https://github.com/features/actions)
+
+**Ferramentas**
 
 [![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/)
-[![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=0db7ed)](https://www.docker.com/)
 [![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
 [![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=flat&logo=obsidian&logoColor=7C3AED)](https://obsidian.md/)
 
 ## Contato:
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chavatta/)
