@@ -58,8 +58,6 @@ A playbook for building software with AI coding agents: specialised agent roles,
 - Postgraduate in DevOps & Cloud Architecture, FIAP (2026)
 - Technologist degree in Computer Networks, Cybersecurity & IoT, FIAP (2018)
 - NiCE Cognigy AI Engineer
-- Automation Anywhere certified
-- Blue Prism certified
 
 ## Contact
 
