@@ -17,7 +17,7 @@
 ### [ToggleMaster](https://github.com/chavatta/challenge_tech_3): feature-flag platform on AWS EKS
 Postgraduate capstone project. Five microservices (Go and Python/FastAPI) deployed to **AWS EKS**, with the whole environment provisioned by **Terraform** (VPC, EKS, RDS PostgreSQL, ElastiCache Redis, DynamoDB, SQS, ECR), **GitOps with ArgoCD**, Helm charts and **GitHub Actions** pipelines with DevSecOps checks.
 
-### [gbpa-dev-playbook](https://github.com/chavatta/gbpa-dev-playbook): governance for AI-assisted development
+### [AI-playbook](https://github.com/chavatta/AI-playbook): governance for AI-assisted development
 A playbook for building software with AI coding agents: specialised agent roles, model routing, quality gates and security controls aligned with ISO/IEC 27001 and 42001.
 
 ## Skills
